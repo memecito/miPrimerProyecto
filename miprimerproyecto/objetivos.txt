@@ -1,1 +1,2 @@
 "mis objetivos para  el curso de full stack" 
+aprender diseño web
